@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "AntiqueLegacy-Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+  src: url("../fonts/AntiqueLegacy-Regular.woff") format("woff"), url("../fonts/AntiqueLegacy-Regular.woff2") format("woff2");
+}
